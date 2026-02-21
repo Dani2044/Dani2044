@@ -25,7 +25,7 @@
     <td width="50%" align="center">
       <h3>📊 GitHub Stats</h3>
       <a href="https://github.com/TU_USUARIO">
-        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=shades-of-purple"/>
+        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dani2044&layout=compact&langs_count=8&theme=shades-of-purple"/>
       </a>
     </td>
   </tr>
@@ -81,7 +81,7 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-snake-dark.svg" width="1000" height="200">
+  <img src="https://github.com/Dani2044/Dani2044/blob/output/github-snake-dark.svg" width="1000" height="200">
 </div>
 
 <div align="center">
