@@ -1,102 +1,94 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  # Hi, I'm Daniel Felipe 👋
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=38&pause=1000&color=5549F7&center=true&vCenter=true&repeat=true&width=900&lines=Systems+Engineering+Student;Software+Developer;Distributed+Systems+%26+Automation;RPA+%26+Web+Scraping+Specialist;Building+High-Impact+Tech+Solutions" alt="Typing SVG" />
-  </a>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+%C2%B7+Software+Engineering+%C2%B7+Distributed+Systems;Agentic+AI+%2F+MCP+%2F+RAG+%2F+Evals;TypeScript+%C2%B7+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Python+%C2%B7+C%2FC%2B%2B+%C2%B7+Java;Systems+Engineering+%40+Javeriana" alt="Headline" />
+</p>
 
-<br>
+<h1 align="center">Daniel Felipe Castro Moreno</h1>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 About Me</h3>
-      <p>💡 &nbsp;Systems Engineering student with strong skills in software development, distributed systems, and automation.</p>
-      <p>🔍 &nbsp;Focused on building robust, scalable, and data-driven solutions.</p>
-      <p>🤖 &nbsp;Hands-on experience in RPA, web scraping, backend development, and fault-tolerant distributed systems.</p>
-      <p>🌍 &nbsp;Driven by academic excellence, innovation, and technology with social impact.</p>
-      <p>💬 &nbsp;Open to collaboration, research projects, internships, and challenging engineering problems.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>📊 GitHub Stats</h3>
-      <a href="https://github.com/Dani2044">
-        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dani2044&layout=compact&langs_count=8&theme=shades-of-purple"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Final-year Systems Engineering student</b> at Pontificia Universidad Javeriana (graduation <b>Dec 2026</b>) ·
+  <b>Software Engineer Intern</b>, Enterprise AI at <b>IBM</b> ·
+  Building agentic AI, resilient backends, and systems-level software.
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-felipe-castro-moreno"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Felipe%20Castro-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:castro-df@javeriana.edu.co"><img src="https://img.shields.io/badge/Email-castro--df%40javeriana.edu.co-4B5563?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Location-Bogot%C3%A1%2C%20Colombia-6B7280?style=flat-square&logo=map-pin&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/IELTS-8.0-0EA5E9?style=flat-square&logo=bookstack&logoColor=white">
+</p>
 
-## 🛠️ Tech Stack
+---
 
-#### 💻 Programming Languages
-<div align="left">
-  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC">&nbsp;
-  <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">&nbsp;
-  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript">&nbsp;
-  <img src="https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF">&nbsp;
-  <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2">&nbsp;
-  <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=276DC3">&nbsp;
-  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql">&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6">&nbsp;
-</div>
+## About me
 
-#### ⚙️ Frameworks & Libraries
-<div align="left">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring&logoColor=6DB33F">&nbsp;
-  <img src="https://img.shields.io/badge/-Spring%20Data%20JPA-05122A?style=flat&logo=spring&logoColor=6DB33F">&nbsp;
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">&nbsp;
-  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask">&nbsp;
-  <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031">&nbsp;
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B">&nbsp;
-  <img src="https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark&logoColor=E25A1C">&nbsp;
-  <img src="https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas">&nbsp;
-  <img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium">&nbsp;
-</div>
+I work at the intersection of **AI systems** and **solid software engineering**. My focus is practical and measurable: agentic assistants that actually orchestrate tools, RAG pipelines with honest quality assessment, and backends that don't fall over under load.
 
-#### 🗃️ Databases & Distributed Systems
-<div align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql">&nbsp;
-  <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite">&nbsp;
-  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase">&nbsp;
-  <img src="https://img.shields.io/badge/-Apache%20Hadoop-05122A?style=flat&logo=apachehadoop">&nbsp;
-  <img src="https://img.shields.io/badge/-ZeroMQ-05122A?style=flat&logo=zeromq&logoColor=DF0000">&nbsp;
-  <img src="https://img.shields.io/badge/-Sockets-05122A?style=flat&logo=socket.io">&nbsp;
-</div>
+What I value in code: clarity, tests, observability, and evidence — I'd rather show a 95.3% latency regression traced to a single line (and the 20× fix) than describe myself with adjectives.
 
-#### 🤖 Automation & Data
-<div align="left">
-  <img src="https://img.shields.io/badge/-UiPath%20RPA-05122A?style=flat&logo=uipath">&nbsp;
-  <img src="https://img.shields.io/badge/-Web%20Scraping-05122A?style=flat&logo=python">&nbsp;
-  <img src="https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat&logo=chart.js">&nbsp;
-</div>
+- **AI / agentic:** multi-agent orchestrators, **MCP** servers, retrieval-augmented generation, and evaluation-driven development. Ten certifications in Anthropic's production-AI track (Claude, MCP, RAG, evals).
+- **Full-stack:** TypeScript · React · Node.js · PostgreSQL — daily stack at IBM.
+- **Systems:** C/C++, operating-systems internals (processes, IPC, scheduling), Linux, Docker, distributed data processing (Hadoop/Spark, coursework).
+- **Academic record:** GPA **4.72/5.0** · Top 1% national — Saber 11 (438/500) · Saber Pro **230/300** · Academic Excellence Scholarship, awarded twice.
 
-#### 🛠️ Tools & DevOps
-<div align="left">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker">&nbsp;
-</div>
+## What I'm doing now
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| | |
+|---|---|
+| **IBM** — *Software Engineer Intern, Enterprise AI* | Curating a React/TypeScript/Node platform for conversational AI reviewers (RBAC + audit trail); built an omnichannel agentic booking assistant with an **MCP server**, and observability-as-code (dashboards/alerts with weekly deltas). |
+| **TuKit** — *co-founder, thesis* | Real-time duplicate tutor matching: **pgvector** + trigram + substitution-graph matcher; traced a 95.3% latency spike to one query → **35.1s → 1.7s**; evaluation-driven iteration (fusion AUC **0.753 vs 0.825** → removed as a false positive). |
+| **Looking** | Software / AI engineering roles — remote (LATAM/global) preferred; full-time from **Dec 2026**. |
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/Dani2044/Dani2044/blob/output/github-snake-dark.svg" width="1000" height="200">
-</div>
+## Featured projects
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+| Project | What it does | Stack | Highlights |
+|---|---|---|---|
+| [**tukit**](https://github.com/Dani2044/tukit) | Real-time duplicate tutor matching platform | Java 21 · Spring Boot · React/TS · PostgreSQL + pgvector · Redis | 35.1s → 1.7s latency (one offending WHERE clause); negative-result reporting (fusion AUC removed) |
+| [**mesh-graph-analyzer**](https://github.com/Dani2044/mesh-graph-analyzer) | 3D mesh management: KD-Tree nearest-vertex + Dijkstra surface paths | C++ · CMake · GTest | O(log n) spatial queries; deterministic tests over synthetic meshes |
+| [**sps-health-platform-architecture**](https://github.com/Dani2044/sps-health-platform-architecture) | High-availability distributed health-plan purchase system (async, MOM) | Java · Docker Compose | Perimeter isolation, per-service DBs, outbox-style flows |
+| [**large-scale-data-processing**](https://github.com/Dani2044/large-scale-data-processing) | Big-data notebooks: Hadoop/Spark pipelines, R analysis | Python · PySpark · R | Clean-room reproductions of ingestion + aggregation workloads |
+| [**senderos-del-amaranto**](https://github.com/Dani2044/senderos-del-amaranto) | Client-funded web project (literary platform), **deployed** | Angular · SCSS · Playwright e2e | Production build + CI, end-to-end tests |
+| [**operating-systems-lab**](https://github.com/Dani2044/operating-systems-lab) | Systems programming: forks, pipes, named IPC, a news server, a VM | C · POSIX | Modular compilation + performance measurements |
+
+## Portfolio (rest)
+
+- [**javematch**](https://github.com/Dani2044/javematch) — verified community platform: interest matching, real-time interaction, video calls (Java/Spring, Docker, devcontainers).
+- [**relational-data-architecture**](https://github.com/Dani2044/relational-data-architecture) — data modeling + advanced SQL query optimization (PL/SQL).
+- [**secure-network-iot-systems**](https://github.com/Dani2044/secure-network-iot-systems) — network design (dual-stack, L2 redundancy) + IoT gas-safety telemetry (C++, MQTT).
+- [**numerical-interpolation-toolkit**](https://github.com/Dani2044/numerical-interpolation-toolkit) — Lagrange interpolation with error analysis and visualization (Python).
+- [**first-order-logic-engine**](https://github.com/Dani2044/first-order-logic-engine) — resolution-based theorem prover (Python).
+- [**storefront-ecommerce**](https://github.com/Dani2044/storefront-ecommerce) — client-side e-commerce frontend (vanilla JS).
+- [**flutter-maps-firebase**](https://github.com/Dani2044/flutter-maps-firebase) — Flutter maps + Firebase (functions) exploration.
+- [**android-compose-maps-hardware**](https://github.com/Dani2044/android-compose-maps-hardware) — Jetpack Compose: maps + hardware access.
+- [**android-compose-starter**](https://github.com/Dani2044/android-compose-starter) — minimal Compose scaffold.
+- [**art-gallery-management-system**](https://github.com/Dani2044/art-gallery-management-system) — gallery CRM: artworks, exhibitions, sales, rentals (Java, layered architecture).
+- [**minesweeper-ai**](https://github.com/Dani2044/minesweeper-ai) — Minesweeper engine + solver benchmark (Python).
+- [**san-miguel-platform**](https://github.com/Dani2044/san-miguel-platform) — family business web platform (Spring Boot).
+- [**personal-portfolio**](https://github.com/Dani2044/personal-portfolio) — this portfolio, redesigned (static, Lighthouse-friendly).
+
+## Tech stack
+
+**Languages:** Python · TypeScript/JavaScript · C++ · C · Java · SQL (PostgreSQL, PL/SQL) · R · Kotlin · Dart
+
+**AI:** Claude/Anthropic · MCP · RAG · evals · agent orchestration
+
+**Backend & data:** Node.js · Spring Boot · PostgreSQL (+ pgvector) · Redis · Hadoop/Spark · Socket/ZeroMQ
+
+**Frontend:** React · Angular · Tailwind CSS (basic)
+
+**Platform:** Linux · POSIX · Docker · Git · GitHub Actions · Playwright
+
+## Certifications & languages
+
+- Anthropic AI engineering track (×10): Claude models, MCP, RAG, evaluation-driven development *(2026)*
+- IELTS Academic **8.0** · Italian **B2** · Spanish (native)
+
+## Contact
+
+Always open to conversations about AI engineering, observability, distributed systems — or a good dataset. Reach me at **castro-df@javeriana.edu.co** or on [LinkedIn](https://www.linkedin.com/in/daniel-felipe-castro-moreno).
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dani2044&show_icons=true&hide_title=true&count_private=true&theme=transparent&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani2044&layout=compact&theme=transparent&hide_border=true" height="150">
+</p>
