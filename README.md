@@ -42,12 +42,12 @@ What I value in code: clarity, tests, observability, and evidence — I'd rather
 
 | Project | What it does | Stack | Highlights |
 |---|---|---|---|
+| [**andes-travel**](https://github.com/Dani2044/AndesTravel) | Omnichannel travel assistant with memory, LangGraph supervisor, MCP server | Python 3.15 · FastAPI · LangGraph · PostgreSQL + pgvector · pytest | TDD, offline-first with mocks; 123 passed, Wompi sandbox; v4.73 |
 | [**tukit**](https://github.com/Dani2044/tukit) | Real-time duplicate tutor matching platform | Java 21 · Spring Boot · React/TS · PostgreSQL + pgvector · Redis | 35.1s → 1.7s latency (one offending WHERE clause); negative-result reporting (fusion AUC removed) |
 | [**mesh-graph-analyzer**](https://github.com/Dani2044/mesh-graph-analyzer) | 3D mesh management: KD-Tree nearest-vertex + Dijkstra surface paths | C++ · CMake · GTest | O(log n) spatial queries; deterministic tests over synthetic meshes |
 | [**sps-health-platform-architecture**](https://github.com/Dani2044/sps-health-platform-architecture) | High-availability distributed health-plan purchase system (async, MOM) | Java · Docker Compose | Perimeter isolation, per-service DBs, outbox-style flows |
 | [**large-scale-data-processing**](https://github.com/Dani2044/large-scale-data-processing) | Big-data notebooks: Hadoop/Spark pipelines, R analysis | Python · PySpark · R | Clean-room reproductions of ingestion + aggregation workloads |
 | [**senderos-del-amaranto**](https://github.com/Dani2044/senderos-del-amaranto) | Client-funded web project (literary platform), **deployed** | Angular · SCSS · Playwright e2e | Production build + CI, end-to-end tests |
-| [**andes-travel**](https://github.com/Dani2044/AndesTravel) | Omnichannel travel assistant with memory, LangGraph supervisor, MCP server | Python 3.15 · FastAPI · LangGraph · PostgreSQL + pgvector · pytest | TDD, offline-first with mocks; 123 passed, Wompi sandbox; v4.73 |
 | [**operating-systems-lab**](https://github.com/Dani2044/operating-systems-lab) | Systems programming: forks, pipes, named IPC, a news server, a VM | C · POSIX | Modular compilation + performance measurements |
 
 ## Portfolio (rest)
